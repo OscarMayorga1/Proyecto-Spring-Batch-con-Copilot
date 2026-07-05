@@ -1,0 +1,10 @@
+2026-07-04 15:49:22.500891-06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ESTUDIANTES_PROCESADOS" no encontrada
+Table "ESTUDIANTES_PROCESADOS" not found; SQL statement:
+INSERT INTO estudiantes_procesados (nombre, grupo, nota1, nota2, nota3, promedio) VALUES (?, ?, ?, ?, ?, ?) [42102-224]
+2026-07-04 20:01:39.750278-06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+2026-07-04 20:43:21.138810-06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
