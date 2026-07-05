@@ -255,9 +255,35 @@ netstat -ano | findstr :8080  # En Windows
 
 ---
 
-## 👥 Autor
-Academia
+## 
 
+---
+## 📸 Evidencias de Funcionamiento
+
+### Servidor Spring Boot en ejecución
+![Servidor Spring Boot](evidencias/ServidorEmbebidoTomcatLevantado.png)
+
+### Base de datos H2 con tabla de estudiantes Job 1
+![Base de datos H2](evidencias/BaseDatosConJobsEjecutados.png)
+
+### Validacion de Job 2 en MongoDB
+![Validacion de Job 2 en MongoDB](evidencias/Step2ValidadoEnMongoDB.png)
+
+### Prueba de API REST con Curl
+![Validacion de funcionamiento Endpoints](evidencias/PruebaAPICurl.png)
+
+### Test en ReporteEstudianteProcessorTest
+![Test con JUnit de ReporteEstudianteProcessorTest](evidencias/ReporteEstudianteProcessorTest.png)
+### Test en EstudianteProcessorTest
+![Test con JUnit de EstudianteProcessorTest](evidencias/EstudianteProcessorTest.png)
+
+### Test con Mockito en EstdianteServiceTest
+![Test con JUnit de EstudianteService](evidencias/EstudianteServiceTest.png)
+
+---
+
+## 👥 Autor
+Oscar Mayorga
 ## 📄 Licencia
 Todos los derechos reservados
 
